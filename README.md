@@ -5,3 +5,4 @@
 
  - Strogonoff de frango  
  - Pavê
+ - Torta Salgada
